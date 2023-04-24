@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/yyy1z67/Downloads/httpclient-4.0-sources.jar/httpclient-4.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/db2java.jar"/>
+	<classpathentry kind="lib" path="lib/snakeyaml-1.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

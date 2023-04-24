@@ -1,0 +1,4 @@
+customer:
+   firstName: "John"
+   lastName: "Doe"
+   age: 31
